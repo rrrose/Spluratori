@@ -1,0 +1,146 @@
+body {
+	margin: 0px;
+	height: 100vh;
+	font-family: century gothic;
+	background: linear-gradient(to bottom right, #cbb91a, #fff);
+}
+
+.menu a{
+	border: 2px solid #fff;
+	color: #fff;
+}
+
+.menu a:hover {
+	background-color: #fff;
+	color: #cbb91a;
+}
+
+
+.roteiros {
+	width: 900px;
+	height: 423px;
+	padding: 40px 20px 20px 20px;
+	margin-top: 50px;
+	margin-left: 210px;
+}
+
+.escolha {
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 60px;
+	border: 2px solid #484851;
+	color: #484851;
+	border-radius: 10px; 
+	
+}
+
+.nome1 {
+	margin-top: 230px;
+	font-size: 23px;
+	width: 300px;
+	margin-left: 12px;
+	
+}
+
+.nome1 a {
+	text-decoration: none;
+	color: #484851;
+	border: 2px solid #484851;
+	border-radius: 10px; 
+	padding: 12px;
+}
+
+.nome1 a:hover {
+	background-color: #cbb91a;
+	border: 2px solid #cbb91a;
+	color: #fff;
+	width: 205px;
+	height: 205px;
+}
+
+
+.nome2 {
+	margin-top: 230px;
+	font-size: 23px;
+	width: 300px;
+	margin-left: -35px;
+	
+}
+
+.nome2 a {
+	text-decoration: none;
+	color: #484851;
+	border: 2px solid #484851;
+	border-radius: 10px; 
+	padding: 12px;
+}
+
+.nome2 a:hover {
+	background-color: #cbb91a;
+	border: 2px solid #cbb91a;
+	color: #fff;
+	width: 205px;
+	height: 205px;
+}
+
+.nome3 {
+	margin-top: 230px;
+	font-size: 23px;
+	width: 300px;
+	margin-left: 20px;
+	
+}
+
+.nome3 a {
+	text-decoration: none;
+	color: #484851;
+	border: 2px solid #484851;
+	border-radius: 10px; 
+	padding: 12px;
+}
+
+.nome3 a:hover {
+	background-color: #cbb91a;
+	border: 2px solid #cbb91a;
+	color: #fff;
+	width: 205px;
+	height: 205px;
+}
+
+.img {
+	width: 200px;
+	height: 200px;
+	float: left;
+	border-radius: 100%;
+}
+
+
+.nerd-geek {
+	width: 200px;
+	height: 200px;
+	float: left;
+	border-radius: 100px;
+	margin-left: 30px;
+	background-color: #A0879C;
+}
+
+
+.darua {
+	width: 200px;
+	height: 200px;
+	float: left;
+	border-radius: 100px;
+	margin-left: 120px;
+	background-color: #fff;
+}
+
+.namaste {
+	width: 200px;
+	height: 200px;
+	float: left;
+	border-radius: 100px;
+	margin-left: 110px;
+	background-color: #fff;
+}
+
+

@@ -1,0 +1,55 @@
+body {
+	margin: 0px;
+	height: 100vh;
+	font-family: century gothic;
+	background: linear-gradient(to bottom right, #e2b06a, #fff);
+}
+
+p {
+	text-align: left;
+	line-height: 22px;
+}
+
+.menu a{
+	border: 2px solid #fff;
+	color: #fff;
+}
+
+.menu a:hover {
+	background-color: #fff;
+	color: #e2b06a;
+}
+
+
+.sobre {
+	width: 650px;
+	height: 310px;
+	margin-top: 115px;
+	margin-bottom: 80px;
+	margin-left: 50px;
+	padding: 20px 15px 0px 15px;
+	float: left;
+	border: 2px solid #fff;
+	border-radius: 20px;
+}
+
+.titulo {
+	font-size: 35px;
+}
+
+.titulo2 {
+	font-size: 20px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.sobreimg {
+	width: 410px;
+	height: 410px;
+	float: right;
+	margin: 75px 20px 63px 0px;
+	padding: 10px 100px 0px 0px;
+	
+}
+
+

@@ -1,0 +1,57 @@
+body {
+	margin: 0px;
+	height: 100vh;
+	font-family: century gothic;
+	background: linear-gradient(to bottom right, #7e9db4, #fff);
+}
+
+
+/*FAZER MENU DROPDOWN PARA OS ROTEIROS */
+
+
+p {
+	text-align: left;
+	line-height: 23px;
+}
+
+.menu a{
+	border: 2px solid #fff;
+	color: #fff;
+}
+
+.menu a:hover {
+	background-color: #fff;
+	color: #7e9db4;
+	
+}
+
+.texto {
+	/*background-color: #ffe699;*/
+	width: 450px;
+	margin-left: 60px;
+	height: 333px;
+	padding-top: 140px;
+	float: left;
+	color: #fff;
+}
+
+.titulo {
+	font-size: 55px;
+}
+
+.texto2 {
+	font-size: 20px;
+	margin-top: 40px;
+	line-height: 35px;
+}
+
+.homeimg {
+	background-image: url(logo1.png);
+	background-size: 468px 390px;
+	background-repeat: no-repeat;
+	width: 569px;
+	height: 428px;
+	float: right;
+	margin: 105px 25px 0px 10px;
+}
+
